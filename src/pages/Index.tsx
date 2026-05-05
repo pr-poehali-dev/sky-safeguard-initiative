@@ -57,17 +57,17 @@ const Index = () => {
 
             <div className="flex flex-col gap-2 max-w-5xl">
               <div className="flex items-center gap-4">
-                <span className="text-accent font-mono text-sm">Имя</span>
-                <span className="text-foreground font-mono text-sm">Макс</span>
+                <span className="text-accent font-mono text-sm">Что это</span>
+                <span className="text-foreground font-mono text-sm">Музей деревянных игрушек</span>
               </div>
               <div className="flex items-center gap-4">
-                <span className="text-accent font-mono text-sm">Вид</span>
-                <span className="text-foreground font-mono text-sm">Инопланетянин с планеты Флэпджек</span>
+                <span className="text-accent font-mono text-sm">Для кого</span>
+                <span className="text-foreground font-mono text-sm">Для детей, семей и всех, кто ценит живое ремесло</span>
               </div>
               <div className="flex items-start gap-4">
-                <span className="text-accent font-mono text-sm">Характер</span>
+                <span className="text-accent font-mono text-sm">О нас</span>
                 <span className="text-foreground font-mono text-sm">
-                  Любопытный, гибкий, немного расслабленный - но острый, когда дело касается баз данных и организации информации.
+                  Мы собираем и бережём деревянные игрушки разных эпох и народов. Каждый экспонат — это история, тепло мастера и кусочек детства.
                 </span>
               </div>
             </div>
